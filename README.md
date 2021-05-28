@@ -1,7 +1,7 @@
 David Prelogović\
 PhD student @ SNS Pisa
 
-📫 `david.prelogovic@gmail.com`
+📫 [`david.prelogovic@gmail.com`](mailto:david.prelogovic@gmail.com)
 
 
 
