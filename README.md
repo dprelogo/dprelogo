@@ -1,5 +1,5 @@
 David Prelogović\
-PhD student @ SNS Pisa
+Postdoctoral researcher @ SISSA Trieste
 
 📫 [`david.prelogovic@gmail.com`](mailto:david.prelogovic@gmail.com)
 
