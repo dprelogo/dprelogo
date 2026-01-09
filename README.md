@@ -1,5 +1,5 @@
 David Prelogović\
-Postdoctoral researcher @ SISSA Trieste
+Data Scientist @ PolyChord Ltd.
 
 📫 [`david.prelogovic@gmail.com`](mailto:david.prelogovic@gmail.com)
 
